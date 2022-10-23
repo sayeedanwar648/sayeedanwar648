@@ -23,11 +23,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 🌱 I’m currently learning **Redux,Typescript**
 
-- 👨‍💻 All of my projects are available at [sayeedanwar648.github.io](sayeedanwar648.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio](sayeedanwar648.github.io)
 
 - 💬 Ask me about **react chakra & react-router-dom**
 
 - 📫 How to reach me **sayeedanwar648@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zfh2EBQECzh_FX6NHljqk5ViQbezErPd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
