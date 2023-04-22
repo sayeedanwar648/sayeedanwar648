@@ -19,11 +19,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayeedanwar648" alt="sayeedanwar648" /></a> </p>
 
-- 🔭 I’m currently working on [Hubspot.com](https://github.com/sayeedanwar648/distinct-ship-6547)
-
 - 🌱 I’m currently learning **Redux,Typescript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](sayeedanwar648.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio]
 
 - 💬 Ask me about **react chakra & react-router-dom**
 
