@@ -21,7 +21,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 🌱 I’m currently learning **Redux,Typescript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio]
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sayeedanwar648.github.io/)
 
 - 💬 Ask me about **react chakra & react-router-dom**
 
