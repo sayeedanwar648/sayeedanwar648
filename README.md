@@ -45,6 +45,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </div>
 <div align="center">
 <hr width="50%" />
-<a href="https://github.com/sayeedanwar648/github-readme-activity-graph"><img alt="Md Sayeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayeedanwar648&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 </div>
 <hr/>
